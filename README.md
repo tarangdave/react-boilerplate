@@ -3,7 +3,7 @@ A Basic react boilerplate that uses gulp, webpack, babel, react-router with ES6 
 
 ## Installing and Running
 
-To start, make sure you're in the `guide-1-react-router` folder in command-line.
+To start, make sure you're in the `react-boilerplate` folder in command-line.
 
 ```sh
 # Install Node Modules
